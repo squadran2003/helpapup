@@ -1,2 +1,13 @@
-.container {
-  }
+.jumbotron{
+  background-image: url("../img/pups.jpeg");
+  background-size: cover;
+  background-position: center;
+  opacity: 1;
+  height: 600px;
+  color: #ddfff9;
+  font-size: 2.5em;
+  font-weight: bold;
+  padding-top: 100px;
+  padding-left: 50px;
+  min-width: 100%
+}
